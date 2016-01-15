@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
 
 /**
  * Created by on 15/6/4.
+ * 标准 junit 测试
  */
 public class CalculatorTest {
 
